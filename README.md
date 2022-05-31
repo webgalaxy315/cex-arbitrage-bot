@@ -1,4 +1,4 @@
-[日本語はこちら](http://qiita.com/bitrinjani/items/3ed756da9baf7d171306)
+[Click here for Japanese](http://qiita.com/bitrinjani/items/3ed756da9baf7d171306)
 
 [![Build Status](https://travis-ci.org/bitrinjani/r2.svg?branch=master)](https://travis-ci.org/bitrinjani/r2) [![Coverage Status](https://coveralls.io/repos/github/bitrinjani/r2/badge.svg?branch=master&i=5)](https://coveralls.io/github/bitrinjani/r2?branch=master)
 # R2 Bitcoin Arbitrager
